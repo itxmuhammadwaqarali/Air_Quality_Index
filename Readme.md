@@ -59,7 +59,7 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/air-pollution-forecasting.git
+git clone https://github.com/itxmuhammadwaqarali/Air_quality_ndex.git
 cd air-pollution-forecasting
 Place the dataset file (air_quality_data.xlsx) in the project directory.
 Run the main Python script:
